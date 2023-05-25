@@ -4,7 +4,7 @@
 ![grafik](https://github.com/rergr/shakespeare_bot/assets/132651459/d13c4ebe-ce6f-4d8f-ba91-607e187de39c)
 Classification Neural Network
 
-##Description
+## Description
 
 Introducing Shakespeare Bot, an extraordinary AI-powered creation that effortlessly carries on the illustrious legacy of William Shakespeare, the renowned playwright and poet. Designed to emulate the poetic brilliance and linguistic finesse of the Bard himself, this remarkable AI bot possesses the ability to produce texts that embody the distinct style and essence of Shakespearean literature.
 
