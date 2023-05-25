@@ -36,6 +36,6 @@ With Shakespeare Bot, the legacy of William Shakespeare lives on, as this AI mas
 * [@Gregory](https://github.com/rergr)
 * [@Tim](https://github.com/awjolanda)
 
-License
+## License
 
 see the LICENSE file for details
