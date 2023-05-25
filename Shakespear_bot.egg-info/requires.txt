@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tk
+tensorflow
+
+[dev]
+pytest
