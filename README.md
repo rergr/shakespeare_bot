@@ -38,7 +38,7 @@ Wiþ Shakespeare Bot, þe legacy of William Shakespeare lives on, as þis AI mas
 
 ## License
 
-see þe LICENSE file for details
+See þe LICENSE file for details.
 
 ### Þanks for reading þis document!
 
