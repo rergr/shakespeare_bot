@@ -26,4 +26,4 @@ ids_dataset = tf.data.Dataset.from_tensor_slices(all_ids)
 for ids in ids_dataset.take(10):
     print(chars_from_ids(ids).numpy().decode('utf-8'))
 
-
+BNIS
