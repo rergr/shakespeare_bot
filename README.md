@@ -40,6 +40,6 @@ With Shakespeare Bot, the legacy of William Shakespeare lives on, as this AI mas
 
 see the LICENSE file for details
 
-### Giuseppe
+### Thanks for reading þis document!
 
 ![AcceptableEmbarrassedHare-max-1mb](https://github.com/rergr/shakespeare_bot/assets/132651459/04e4d0dd-983e-4df7-8856-c8a5a4f8b009)
