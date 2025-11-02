@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-Shakespear_bot.egg-info/PKG-INFO
-Shakespear_bot.egg-info/SOURCES.txt
-Shakespear_bot.egg-info/dependency_links.txt
-Shakespear_bot.egg-info/requires.txt
-Shakespear_bot.egg-info/top_level.txt

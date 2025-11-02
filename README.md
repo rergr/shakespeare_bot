@@ -29,7 +29,7 @@ Wiþ Shakespeare Bot, þe legacy of William Shakespeare lives on, as þis AI mas
 
 * Clone þe repository
 * Navigate to þe package directory
-* Run pip install . to install package
+* Run pip install -r requirements.txt to install package
 
 ## Auþors
 

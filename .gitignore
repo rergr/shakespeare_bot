@@ -47,3 +47,10 @@ gradleBuild
 Podfile.lock
 Pods
 xcuserdata
+
+venv/
+shakespear_bot/models/dump/
+shakespear_bot/models/one_step/
+shakespear_bot/debug.py
+shakespear_bot/log.txt
+shakespear_bot/logsh.txt
